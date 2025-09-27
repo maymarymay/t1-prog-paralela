@@ -2,7 +2,7 @@
 
 Como rodei meu código
 
-tenho um código chamado "gerar.c" 
+tenho um código chamado "gerar.c" \n
 compilo ele com gcc -o gera gerar.c
 então monto as sequências assim:
 ./gera 100000 100k.txt
