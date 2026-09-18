@@ -1,5 +1,12 @@
 # T1proguipar
 
+# Objetivos
+1. Implementar uma das soluções paralelas vista em sala usando o MPI para ordenação de um conjunto de sequências genômicas.
+2. Comparar o desempenho com uma solução sequencial.
+3. Realizar experimentos em um computador com pelo menos 8 processadores. Sua solução deveter desempenho melhor que o sequencial. A nota estará relacionada ao desempenho.
+4. Elaborar um relatório descrevendo a solução, a descrição da m´áquina onde os testes foram realizados, os experimentos dos resultados obtidos bem como uma análise dos resultados
+
+
 Como rodei meu código
 
 tenho um código chamado "gerar.c" 
